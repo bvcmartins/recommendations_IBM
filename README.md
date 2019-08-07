@@ -1,4 +1,4 @@
-# Identify Customer Segments
+# Recommendations with IBM
 
 Project 5 of Udacity Data Scientist Nanodegree
 
