@@ -39,8 +39,3 @@ and new users
 plain SVD and Funk SVD have similar performances. We
 also found that at least 300 latent features are necessary
 to account for class imbalance effects.
-
-These clusters showed that the preferred customers lived in low-density regions. They are socially and family-minded, 
-dreamful, interested in culture but with high financial interest. They probably had a membership in green organizations
-during their youth and they were mainly of the avantgarde movement. Probably they are still married and their sons and
-daughters live with them. They are very active online.
